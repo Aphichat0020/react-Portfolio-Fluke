@@ -74,5 +74,9 @@
   {
     "title": "Grafana",
     "imageSrc": "skills/grafanalogo.png"
+  },
+  {
+    "title": "Prometheus",
+    "imageSrc": "skills/Prometheuslogo.png"
   }
 ]
