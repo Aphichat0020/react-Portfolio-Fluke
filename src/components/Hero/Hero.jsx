@@ -9,8 +9,9 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Fluke</h1>
         <p className={styles.description}>
-        Hello My name is Aphichat Rungruang or call me Fluke. i am a Unity Deverloper 
-        I love games and Happy when everyone can play my game.I feel like haven't developed myself enough.
+        Hello, my name is Aphichat Rungruang, or you can call me Fluke. I used to be 
+        a Unity developer. I love games and enjoy when people play my games. Now, 
+        I'm a Full Stack Developer and I'm working on developing myself in DevOps.
         </p>
         <a href="mailto:Aphichatrungruang@gmail.com" className={styles.contactBtn}>
           Contact Me
