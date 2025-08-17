@@ -5,10 +5,11 @@ import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
-
+import  SnowEffect  from "./components/Effect/SnowEffect";
 function App() {
   return (
     <div className={styles.App}>
+      <SnowEffect />
       <Navbar />
       <Hero />
       <About />
