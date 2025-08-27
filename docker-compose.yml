@@ -5,7 +5,7 @@ services:
     build: .
     container_name: fluke-portfolio
     ports:
-      - "81:80"
+      - "80:80"
     restart: unless-stopped
     environment:
       - NODE_ENV=production
