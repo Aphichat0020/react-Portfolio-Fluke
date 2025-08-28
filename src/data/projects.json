@@ -44,7 +44,7 @@
     "imageSrc": "projects/portal.png",
     "description": "TKC Services is a project that facilitates reporting problems through the Ticket system.",
     "skills": ["JavaScript", "HTML","CSS","React","Docker","nginx"],
-    "demo": "https://smart.tkc-services.com",
+    "demo": "https://tkcportal.tkc-services.com/login",
     "source": "https://www.behance.net/gallery/233387683/TKC-Services"
   }
 ]
