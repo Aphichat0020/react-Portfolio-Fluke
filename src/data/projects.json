@@ -30,5 +30,21 @@
     "skills": ["Unity", "C#","Animation","AR","Vroid"],
     "demo": "https://www.behance.net/gallery/177049625/SongKranAR",
     "source": "https://www.behance.net/gallery/177049625/SongKranAR"
+  } ,
+  {
+    "title": "TKC Catalog",
+    "imageSrc": "projects/main.png",
+    "description": "TKC Catalog is a project related to the solutions that TKC Company.",
+    "skills": ["JavaScript", "HTML","CSS","React"],
+    "demo": "https://smart.tkc-services.com",
+    "source": "https://www.behance.net/gallery/199735685/TKC-catalog"
+  } ,
+  {
+    "title": "TKC Services",
+    "imageSrc": "projects/portal.png",
+    "description": "TKC Services is a project that facilitates reporting problems through the Ticket system.",
+    "skills": ["JavaScript", "HTML","CSS","React","Docker","nginx","microsoft"],
+    "demo": "https://smart.tkc-services.com",
+    "source": "https://www.behance.net/gallery/233387683/TKC-Services"
   }
 ]
