@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
             
               <p>
-                I'm a Unity programmer, I work on all kinds of gameplay development.
+                I'm a programmer, I work on all kinds of gameplay development.
                  projects and learning Includes how-to code and optimization tips. 
                   I learned a lot of ways to make games VR AR . I learn to work as a team and division 
                   of duties. I have studied worked FrontEnd and BackEnd  

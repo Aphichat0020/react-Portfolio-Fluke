@@ -32,4 +32,19 @@
     ]
     
   }
+  ,
+  {
+    "role": "IT Programmer",
+    "organisation": "(Fulltime at turnkey communication services public company limited)",
+    "startDate": "2024",
+    "endDate": "",
+    "experiences": [
+      "Working to make Web FrontEnd and BackEnd.", 
+      "Working about Infra using Docker and Kubernetes nginx Helm jenkins CICD. ",
+      "this time I learned more Database SQL and NOSQL. ",
+      "I have been assigned to many large projects and have had the opportunity to develop the company's core projects. ",
+      "I am interested in AI and have the opportunity to participate in AI-related projects.. "
+    ]
+    
+  }
 ]
